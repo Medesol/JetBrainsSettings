@@ -9,9 +9,6 @@
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
