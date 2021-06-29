@@ -18,9 +18,11 @@
         <entry key="app/src/main/res/drawable/miscellaneous_icon.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/drawable/music_icon.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/drawable/venue.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.21875" />
         <entry key="app/src/main/res/layout/activity_display_events.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_display_message.xml" value="0.45" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.21822916666666667" />
+        <entry key="app/src/main/res/layout/content_detail.xml" value="0.21875" />
         <entry key="app/src/main/res/layout/fragment_favorite.xml" value="0.21875" />
         <entry key="app/src/main/res/layout/fragment_form.xml" value="0.3859375" />
         <entry key="app/src/main/res/layout/fragment_main.xml" value="0.5" />
