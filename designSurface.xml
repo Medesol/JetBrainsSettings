@@ -5,7 +5,18 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.24479166666666666" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23333333333333334" />
         <entry key="app/src/main/res/drawable/art_icon.xml" value="0.23385416666666667" />
+        <entry key="app/src/main/res/drawable/film_icon.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/drawable/heart_fill_red.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/drawable/heart_fill_white.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/drawable/heart_outline_black.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/drawable/heart_outline_white.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.23333333333333334" />
+        <entry key="app/src/main/res/drawable/ic_sport_icon.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_twitter_ic__2_.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/drawable/info_outline.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/drawable/miscellaneous_icon.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/drawable/music_icon.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/drawable/venue.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/layout/activity_display_events.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_display_message.xml" value="0.45" />
